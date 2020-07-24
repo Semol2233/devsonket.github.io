@@ -6,7 +6,7 @@
     "colorPref": "#6cc24a",
     "contents": [
         {
-            "title": "গ্লোবাল অবজেক্ট",
+            "title": "গ্লোবাল; অবজেক্ট",
             "items": [
                 {
                     "definition": "বর্তমান module এর ডিরেক্টরির নাম দেখা",
